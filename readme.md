@@ -4,18 +4,19 @@ Chaos++ is a headers-only C++11 library to sample chaotic systems.
 Its main goal is to provide a common library to apply importance sampling Monte Carlo techniques 
 to study chaotic systems.
 
-Main publication:
+Main publications:
 
-* (1) To be published.
+* (1) [PhD thesis of Jorge C. Leitao](https://d-nb.info/1114067997/34)
+* (2) [Importance sampling of rare events in chaotic systems](https://link.springer.com/article/10.1140/epjb/e2017-80054-3)
 
 Relevant references:
 
-* (2) [Monte Carlo Sampling in Fractal Landscapes](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.220601)
-* (3) [Efficiency of Monte Carlo sampling in chaotic systems](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.052916)
-* (4) [Stagger-and-Step Method: Detecting and Computing Chaotic Saddles in Higher Dimensions](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.2261)
-* (5) [Large deviations of Lyapunov exponents](http://iopscience.iop.org/article/10.1088/1751-8113/46/25/254002/meta)
-* (6) [Precision shooting: Sampling long transition pathways](http://scitation.aip.org/content/aip/journal/jcp/129/19/10.1063/1.2978000)
-* (7) [Multicanonical MCMC for sampling rare events: an illustrative review](http://link.springer.com/article/10.1007%2Fs10463-014-0460-2)
+* (3) [Monte Carlo Sampling in Fractal Landscapes](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.220601)
+* (4) [Efficiency of Monte Carlo sampling in chaotic systems](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.052916)
+* (5) [Stagger-and-Step Method: Detecting and Computing Chaotic Saddles in Higher Dimensions](http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.2261)
+* (6) [Large deviations of Lyapunov exponents](http://iopscience.iop.org/article/10.1088/1751-8113/46/25/254002/meta)
+* (7) [Precision shooting: Sampling long transition pathways](http://scitation.aip.org/content/aip/journal/jcp/129/19/10.1063/1.2978000)
+* (8) [Multicanonical MCMC for sampling rare events: an illustrative review](http://link.springer.com/article/10.1007%2Fs10463-014-0460-2)
 
 ## Dependencies
 
